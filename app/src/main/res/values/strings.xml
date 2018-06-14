@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversion app</string>
+    <string name="from">From</string>ž
+    <string name="to">To</string>
+    <string name="Buying">Buying: </string>
+    <string name="Selling">Selling: </string>
+    <string name="hint">Enter value</string>
+    <string name="submit">Submit</string>
+</resources>
